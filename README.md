@@ -27,7 +27,7 @@ If using GitHub:
 
 bash
 
-git clone https://github.com/YOUR-USERNAME/product-api.git
+git clone https://github.com/07-vishal/product-api.git
 cd product-api
 Or extract the ZIP file if you downloaded it manually.
 
